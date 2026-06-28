@@ -1,0 +1,54 @@
+==================================================
+🔮 SIMULACIÓN DEL MUNDIAL DE 48 SELECCIONES (ANCLAJE DE RANKING) 🔮
+==================================================
+
+--- DIECISEISEAVOS DE FINAL - BLOQUE A ---
+⚽ Germany vs Paraguay -> Marcador: 2 - 0
+⚽ France vs Sweden -> Marcador: 2 - 1
+⚽ South Africa vs Canada -> Marcador: 1 - 0
+⚽ Netherlands vs Morocco -> Marcador: 1 - 1 (Gana Netherlands en penaltis)
+⚽ Portugal vs Croatia -> Marcador: 2 - 0
+⚽ Spain vs Austria -> Marcador: 1 - 0
+⚽ United States vs Bosnia and Herzegovina -> Marcador: 1 - 0
+⚽ Belgium vs Senegal -> Marcador: 2 - 0
+
+--- DIECISEISEAVOS DE FINAL - BLOQUE B ---
+⚽ Brazil vs Japan -> Marcador: 1 - 0
+⚽ Ivory Coast vs Norway -> Marcador: 1 - 0
+⚽ Mexico vs Ecuador -> Marcador: 1 - 1 (Gana Ecuador en penaltis)
+⚽ England vs DR Congo -> Marcador: 2 - 0
+⚽ Argentina vs Cape Verde -> Marcador: 2 - 0
+⚽ Australia vs Egypt -> Marcador: 1 - 0
+⚽ Switzerland vs Algeria -> Marcador: 1 - 1 (Gana Switzerland en penaltis)
+⚽ Colombia vs Ghana -> Marcador: 1 - 0
+
+--- OCTAVOS DE FINAL - LLAVE IZQUIERDA ---
+⚽ Germany vs France -> Marcador: 1 - 1 (Gana France en penaltis)
+⚽ South Africa vs Netherlands -> Marcador: 0 - 0 (Gana Netherlands en penaltis)
+⚽ Portugal vs Spain -> Marcador: 1 - 1 (Gana Spain en penaltis)
+⚽ United States vs Belgium -> Marcador: 1 - 1 (Gana United States en penaltis)
+
+--- OCTAVOS DE FINAL - LLAVE DERECHA ---
+⚽ Brazil vs Ivory Coast -> Marcador: 2 - 0
+⚽ Ecuador vs England -> Marcador: 0 - 1
+⚽ Argentina vs Australia -> Marcador: 1 - 0
+⚽ Switzerland vs Colombia -> Marcador: 1 - 1 (Gana Colombia en penaltis)
+
+--- CUARTOS DE FINAL - LLAVE IZQUIERDA ---
+⚽ France vs Netherlands -> Marcador: 1 - 1 (Gana Netherlands en penaltis)
+⚽ Spain vs United States -> Marcador: 1 - 1 (Gana Spain en penaltis)
+
+--- CUARTOS DE FINAL - LLAVE DERECHA ---
+⚽ Brazil vs England -> Marcador: 1 - 0
+⚽ Argentina vs Colombia -> Marcador: 1 - 1 (Gana Colombia en penaltis)
+
+--- SEMIFINALES ---
+⚽ Netherlands vs Spain -> Marcador: 1 - 1 (Gana Spain en penaltis)
+⚽ Brazil vs Colombia -> Marcador: 1 - 1 (Gana Colombia en penaltis)
+
+--- PARTIDO POR EL TERCER PUESTO (BRONZE FINAL) ---
+⚽ Netherlands vs Brazil -> Marcador: 2 - 1
+
+👑 LA GRAN FINAL DEL MUNDIAL 2026 👑
+FINAL: ⚽ Spain vs Colombia -> Marcador: 1 - 0
+🏆 CAMPEÓN DEL MUNDO: SPAIN 🏆
